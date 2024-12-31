@@ -7,11 +7,11 @@
   display: grid;
   grid-template-columns: 1fr 4fr;
   grid-template-areas:
-  "header header header header"
-  "sidebar nav nav nav"
-  "sidebar article article article"
-  "sidebar article article article"
-  "footer footer footer footer"
+  "header header"
+  "sidebar nav"
+  "sidebar article"
+  "sidebar article"
+  "footer footer"
 
   ;
   gap: 4px;
